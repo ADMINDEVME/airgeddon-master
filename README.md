@@ -62,7 +62,7 @@ All the needed info about how to "install | use | enjoy" `airgeddon` is present 
   - [Hat Tip To]
   - [Inspiration]
 
-- *VI. LINK VIDEO🐧*
+- *VI. LINK VIDEO 🐧*
   - https://www.youtube.com/watch?v=8aJEGZPqFGc
 
 
